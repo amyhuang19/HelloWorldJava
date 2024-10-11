@@ -1,0 +1,1 @@
+Hello world in Java. Set up Java environment for VSCode.
